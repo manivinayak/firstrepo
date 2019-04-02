@@ -1,0 +1,14 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 7CD6-CCD0
+
+ Directory of C:\Users\testadmin\Desktop\mygitproject
+
+04/02/2019  04:11 PM    <DIR>          .
+04/02/2019  04:11 PM    <DIR>          ..
+04/01/2019  12:28 PM               465 index.html
+04/01/2019  12:28 PM               414 ravanth.html
+04/01/2019  12:55 PM                18 test1.txt
+04/02/2019  04:11 PM                 0 test2.txt
+04/01/2019  12:55 PM                 0 vinayak.txt
+               5 File(s)            897 bytes
+               2 Dir(s)  122,617,368,576 bytes free
